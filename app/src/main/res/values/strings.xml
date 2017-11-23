@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AnaliseSentimentoFotoAzure1</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="face_detection_api">1edf4f0f93ae40038c66ae25b578b50c</string>
+</resources>
